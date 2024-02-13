@@ -7,7 +7,7 @@ name = "HBV"
 description = "Dev version for a HBV hydrological model using BMI for eWaterCycle."
 readme = "README.md"
 license = "Apache-2.0"
-version = "1.1.0"
+version = "1.1.1"
 authors = [
   { name = "David Haasnoot", email = "davidhaasnoot@gmail.com" },
 ]
