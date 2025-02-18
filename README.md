@@ -1,5 +1,8 @@
 # HBV-BMI
 
+> [!IMPORTANT]
+> This repo has been moved to the [official eWaterCycle Github](https://github.com/eWaterCycle/ewatercycle-HBV-bmi)
+
 [![PyPI](https://img.shields.io/pypi/v/HBV)](https://pypi.org/project/HBV/)
 
 Basic Model Interface (BMI) HBV model intended for use with [eWaterCycle](https://github.com/eWaterCycle). See said repo for installation instructions. 
